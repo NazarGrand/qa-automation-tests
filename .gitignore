@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+.DS_Store
+build/
+chromedriver/
+reports/
+.vscode/
+*.log
